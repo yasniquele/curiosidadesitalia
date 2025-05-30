@@ -15,3 +15,8 @@ criaCartao(
   'Por que o vinho é importante na Itália?',
   'O vinho está presente em todas as refeições e celebrações, a Itália é o maior exportador de vinho do mundo e tem mais de 350 tipos de uvas nativas'
 )
+criaCartao(
+  'Curiosidades sobre a Itália',
+  'O que tem no Museu Galileu em Florença?',
+  'Lá estão expostos o dedo médio, o dedão e o dente de Galileu Galilei, encontrados por um colecionador de arte em 2010'
+)
